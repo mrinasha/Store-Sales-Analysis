@@ -1,8 +1,8 @@
 # Store-Sales-Analysis
-The project aims to analyze Walmart sales data from the Kaggle competition. It seeks to identify top-performing branches and products, understand sales trends, and explore customer behavior to optimize sales strategies.
+The project aims to analyze a Store sales data. It seeks to identify top-performing branches and products, understand sales trends, and explore customer behavior to optimize sales strategies.
 
 # Aim of the Project
-The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
+The major aim of thie project is to gain insight into the sales data of a Store to understand the different factors that affect sales of the different branches.
 
 # Approach Used
 Data manipulation by generating new columns that will help us draw more insights
