@@ -31,8 +31,8 @@ In which city is each branch?
 
 6.What product line had the largest revenue?
 
-7. What is the city with the largest revenue?
-8. 
+7.What is the city with the largest revenue?
+
 8.What product line had the largest VAT?
 
 9.Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
